@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,git@github.com:eMoflon-CEP/examples.git,main,ABC"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/testsuite.git,main,ABCGrapeL"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/examples.git,main,Flights"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/testsuite.git,main,FlightsGrapeL"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/examples.git,main,MNetwork"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/testsuite.git,main,MNetworkGrapeL"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/testsuite.git,main,TestsuiteDependencies"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/testsuite.git,main,TestsuiteGrapeL"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/examples.git,main,Zoo"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/testsuite.git,main,ZooGrapeL"/>
+</provider>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1593507793709_3" label="metamodels" name="metamodels">
+<item elementID="=ABC" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Flights" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MNetwork" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zoo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1593509903735_5" label="testsuites" name="testsuites">
+<item elementID="=TestsuiteDependencies" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=TestsuiteGrapeL" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1615551772993_8" label="grapel-examples" name="grapel-examples">
+<item elementID="=ABCGrapeL" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FlightsGrapeL" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MNetworkGrapeL" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ZooGrapeL" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+</psf>
